@@ -38,8 +38,6 @@ It uses a **Random Forest Classifier** to make predictions and demonstrates a co
 ## Results
 - Example Accuracy: `95%` (your accuracy may vary depending on random split)
 
-![Results Screenshot](path_to_your_screenshot.png)  
-*Replace this with an actual screenshot of your notebook output.*
 
 ---
 
@@ -47,4 +45,5 @@ It uses a **Random Forest Classifier** to make predictions and demonstrates a co
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shakshi20/Penguins-ML-Project.git
+
 
